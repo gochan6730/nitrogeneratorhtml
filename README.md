@@ -5,8 +5,8 @@ No! It's not a Nitro Generator, it will redirect to rickroll after a "generation
 # License
 This repo is licensed under MIT License
 
-Note: This is not the full script, we've removed:
-Removed video content
-Removed Header
-Removed Copyright info
-Added MIT License link
+### Note: This is not the full script, we've removed:
+- Removed video content
+- Removed Header
+- Removed Copyright info
+- Added MIT License link
